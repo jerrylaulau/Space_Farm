@@ -3,6 +3,7 @@
 #ifndef __SPACE_FARM_H__
 #define __SPACE_FARM_H__
 
-#include "EngineMinimal.h"
+//#include "EngineMinimal.h" <- this was the original #include
+#include "Engine.h"
 
 #endif
